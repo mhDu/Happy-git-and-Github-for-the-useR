@@ -8,5 +8,6 @@ output: github_document
 ```{r}
 ## insert your brilliant WORKING code here
 a = 1
+a
 ```
 
